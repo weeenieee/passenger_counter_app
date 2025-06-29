@@ -25,11 +25,13 @@ This project is part of a tutorial to learn JavaScript basics. It demonstrates h
 
 ---
 
-## 🗂️ Files
+## 🗂️ Folder Structure
+```
 passenger_counter_app/
 ├── index.html # Contains the structure of the webpage
 ├── index.css # Styles the layout and buttons
 └── index.js # Contains the JavaScript logic
+```
 
 ---
 
